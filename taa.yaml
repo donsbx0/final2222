@@ -6,7 +6,7 @@ metadata:
   name: taa-dpl
   namespace: taa
 spec:
-  replicas: 7
+  replicas: 1
   selector:
     matchLabels:
       app: taa
